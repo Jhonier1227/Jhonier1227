@@ -1,16 +1,22 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Jhonier Montaño
 
-<!--
-**Jhonier1227/Jhonier1227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Desarrollador web en formación | Amante del código limpio y bien estructurado  
+🚀 Actualmente trabajando en mi portafolio personal  
+🛠️ Tecnologías que estoy utilizando: HTML, CSS, JavaScript, PHP, Bootstrap y más  
+📚 Siempre aprendiendo algo nuevo
 
-Here are some ideas to get you started:
+## 💼 Proyectos destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [M&C Grúas](https://github.com/Jhonier1227/MCgruas): Página web profesional para empresa de transporte y grúas.
+- [DoltNow](https://github.com/Jhonier1227/DoltNow): Gestor de tareas con categorías y modo oscuro.
+
+## 📫 ¿Quieres contactarme?
+
+Correo: `jhonierstivenmontanocastillo@gmail.com`  
+LinkedIn: (https://www.linkedin.com/in/jhonier-stiven-monta%C3%B1o-castillo-610271346/)  
+Portafolio: En construcción 🚧
+
+---
+
+> “Hazlo ahora, enfocado en la acción y la productividad.” – *DoltNow*
+
