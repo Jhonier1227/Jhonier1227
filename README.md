@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Desarrollador web en formación | Amante del código limpio y bien estructurado<br>
   🚀 Actualmente trabajando en mi portafolio personal<br>
-  🛠️ Tecnologías que estoy utilizando: HTML, CSS, JavaScript, PHP, Bootstrap y más<br>
+  🛠️ Tecnologías que estoy utilizando: HTML, CSS, JavaScript, Bootstrap y más<br>
   📚 Siempre aprendiendo algo nuevo
 </p>
 
