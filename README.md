@@ -31,7 +31,7 @@
 
 📧 Correo: [`jhonierstivenmontanocastillo@gmail.com`](mailto:jhonierstivenmontanocastillo@gmail.com)  
 💼 LinkedIn: [Jhonier Montaño](https://www.linkedin.com/in/jhonier-stiven-monta%C3%B1o-castillo-610271346/)  
-🌐 Portafolio:[]( https://jhonier1227.github.io/Portafolio/) 
+🌐 [Portafolio]( https://jhonier1227.github.io/Portafolio/) 
 
 ---
 
