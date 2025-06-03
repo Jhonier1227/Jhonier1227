@@ -27,7 +27,7 @@
 
 - 🚗 [M&C Grúas](https://github.com/Jhonier1227/MCgruas): Página web profesional para empresa de transporte y grúas.
 - ✅ [DoltNow](https://github.com/Jhonier1227/DoltNow): Gestor de tareas con categorías y modo oscuro.(En pendiente).
-- 🐉 [Dragon Ball History](https://github.com/Jhonier1227/DragonBallHistory) Proyecto web interactivo que muestra la historia y personajes de Dragon Ball con diseño moderno y línea de tiempo..
+- 🐉 [Dragon Ball History](https://github.com/Jhonier1227/Dragon_Ball_History) Proyecto web interactivo que muestra la historia y personajes de Dragon Ball con diseño moderno y línea de tiempo..
 ---
 
 ## 📫 ¿Quieres contactarme?
