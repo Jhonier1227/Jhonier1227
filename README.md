@@ -20,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
 </p>
 
 ---
@@ -36,9 +35,9 @@
 ---
 
 ## 📈 Estadísticas de GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonier1227&show_icons=true&theme=radical" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jhonier1227&show_icons=true&theme=radical" alt="Estadísticas de GitHub" style="display:inline-block; width:49%; " />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonier1227&layout=compact&theme=radical" alt="Lenguajes más usados" style="display:inline-block; width:49%;" />
 </p>
 
 ---
